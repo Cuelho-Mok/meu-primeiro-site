@@ -1,0 +1,45 @@
+html, body {
+    margin: 0px;
+}
+
+body{
+    background-color:#e4e4e4
+}
+
+#painel-imagem{
+    background:url(fundos/fome-1\,5.jpg);
+    height: 120%;
+    text-align: center;
+}
+
+#boas-vindas{
+    color: rgb(16, 15, 17);
+    padding-top: 18%;
+    font-size: 65px;
+    line-height: 1.2;
+
+}
+
+#apresentação{
+    color: rgb(48, 45, 51);
+    margin-left: 20%;
+    margin-right: 20%;
+    border-top: 3px solid rgb(48, 45, 51);
+}
+
+#painel-interativo{
+    color: black;
+    border:1px black solid;
+    padding: 10px 20px 10px 20px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.cor-bottom:hover{ 
+   background-color: rgba(0, 0, 0, 0.37);
+}
+
+#quadro-1{
+    padding-left: 5%;
+    padding-right: 30%;
+}
